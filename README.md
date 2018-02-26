@@ -5,5 +5,5 @@
 ### Завдання
 
 1. Зробити верстку згідно наступного рисунку:
-![task1](https://drive.google.com/file/d/1zC4OEzFKwrKXQ9bdAmN3agGNhM_sqFKI/view?usp=sharing)
+![task1](https://lh3.googleusercontent.com/QCVN1biBQq4HiZs3J5s9nJKkUKx7FRCmJwwsAm1lY29rTvRQjcarXJjFc_CTkkyxqdrDjzfJqg9oU-N-pUi2=w1920-h924-rw)
 2. При виконанні завдання використувати такі компоненти: `div`, `span`, `progress`, `button`, `img`, `table`, `a`
